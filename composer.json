@@ -1,0 +1,27 @@
+{
+  "name": "ginopane/blogtimetoread",
+  "type": "october-plugin",
+  "description": "A simple time to read extension for RainLab Blog",
+  "homepage": "https://github.com/GinoPane/oc-blogtimetoread-plugin",
+  "keywords": ["october", "cms", "blog", "time", "reading time", "time to read", "gino pane"],
+  "authors": [
+    {
+      "name": "Siarhei <Gino Pane> Karavai",
+      "homepage": "http://sergey.karavay.name",
+      "email": "sergey.karavay@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require-dev": {
+    "squizlabs/php_codesniffer": "^3.0",
+    "phpmd/phpmd" : "^2.6"
+  },
+  "scripts": {
+    "psr2check": [
+      "@php vendor/bin/phpcs --standard=PSR2 src/"
+    ],
+    "psr2autofix": [
+      "@php vendor/bin/phpcbf --standard=PSR2 src/"
+    ]
+  }
+}

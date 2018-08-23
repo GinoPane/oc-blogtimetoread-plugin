@@ -1,0 +1,16 @@
+fields:
+    section_title:
+        label: 'ginopane.blogtimetoread::lang.settings.main_settings_title'
+        span: left
+        type: section
+    default_reading_speed:
+        label: 'ginopane.blogtimetoread::lang.settings.default_reading_speed'
+        span: left
+        placeholder: 300
+        type: number
+        comment: 'ginopane.blogtimetoread::lang.settings.default_reading_speed_comment'
+    rounding_up_enabled:
+        label: 'ginopane.blogtimetoread::lang.settings.rounding_up_enabled'
+        span: left
+        type: switch
+        comment: 'ginopane.blogtimetoread::lang.settings.rounding_up_enabled_comment'
