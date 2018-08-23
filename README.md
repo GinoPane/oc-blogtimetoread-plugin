@@ -2,7 +2,7 @@
 
 A simple time to read extension for [RainLab Blog](https://github.com/rainlab/blog-plugin) plugin.
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/60ecdc5d75bb0e490049/maintainability)](https://codeclimate.com/github/GinoPane/oc-blogtimetoread-plugin/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/589a234df30aad280f9b/maintainability)](https://codeclimate.com/github/GinoPane/oc-blogtimetoread-plugin/maintainability)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/GinoPane/oc-blogtimetoread-plugin/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/GinoPane/oc-blogtimetoread-plugin/?branch=master)
 
 [_Blog Time to Read_](https://github.com/GinoPane/oc-blogtimetoread-plugin) adds a basic time to read calculation for your awesome posts.
