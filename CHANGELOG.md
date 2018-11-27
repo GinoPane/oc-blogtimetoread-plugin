@@ -16,6 +16,11 @@ Types of changes
 
 ## [Unreleased]
 
+## 1.1.0 - 2018-11-27
+
+### Changed
+* Degraded from PHP7.1 to PHP7.0 to support the minimal required version for October CMS.
+
 ## 1.0.1 - 2018-11-27
 
 ### Fixed
@@ -26,4 +31,4 @@ Types of changes
 ### Features
 * The initial release of Blog Time to Read.
 
-[Unreleased]: https://github.com/GinoPane/oc-blogtimetoread-plugin/compare/v1.0.1...HEAD
+[Unreleased]: https://github.com/GinoPane/oc-blogtimetoread-plugin/compare/v1.1.0...HEAD
