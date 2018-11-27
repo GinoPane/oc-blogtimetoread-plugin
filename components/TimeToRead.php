@@ -97,7 +97,7 @@ class TimeToRead extends ComponentBase
      *
      * @return void
      */
-    private function prepareVars(): void
+    private function prepareVars()
     {
         $this->postSlug = (string)$this->property('postSlug');
         $this->readingSpeed = (int)$this->property('readingSpeed');
@@ -107,7 +107,7 @@ class TimeToRead extends ComponentBase
     /**
      * @return void
      */
-    private function calculateReadingTime(): void
+    private function calculateReadingTime()
     {
         $post = Post::whereSlug($this->postSlug)->first();
 

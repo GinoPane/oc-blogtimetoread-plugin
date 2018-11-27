@@ -32,6 +32,7 @@ class Plugin extends PluginBase
 
     /** @var TimeToRead  */
     private $helper = null;
+
     /**
      * Returns information about this plugin
      *
