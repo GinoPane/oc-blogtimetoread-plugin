@@ -28,7 +28,7 @@ settings are being used for calculation.
 2. Templates can use a new Twig `timeToRead` filter which uses the initial settings by default but also allows to override them
 explicitly (the example shows how you can set 100 wpm speed without rounding for a filter).
 
-    ```{{ post.content | timetToRead(100, false) }} ```
+    ```{{ post.content | timeToRead(100, false) }} ```
 
 3. TimeToRead **component** is available for use.
 
