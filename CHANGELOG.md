@@ -16,9 +16,14 @@ Types of changes
 
 ## [Unreleased]
 
+## 1.0.1 - 2018-11-27
+
+### Fixed
+* Fixed README typo (#1).
+
 ## 1.0.0 - 2018-08-23
 
 ### Features
 * The initial release of Blog Time to Read.
 
-[Unreleased]: https://github.com/GinoPane/oc-blogtimetoread-plugin/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/GinoPane/oc-blogtimetoread-plugin/compare/v1.0.1...HEAD
