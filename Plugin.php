@@ -20,7 +20,7 @@ class Plugin extends PluginBase
     const LOCALIZATION_KEY = 'ginopane.blogtimetoread::lang.';
 
     /**
-     * @var array   Require the RainLab.Blog plugin
+     * @var array   Require some plugins
      */
     public $require = [
         'RainLab.Blog',
