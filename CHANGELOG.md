@@ -16,6 +16,12 @@ Types of changes
 
 ## [Unreleased]
 
+## 1.2.0 - 2019-01-09
+
+### Changed
+* Another style of required plugin registration.
+* Links changes for README.
+
 ## 1.1.0 - 2018-11-27
 
 ### Changed
@@ -31,4 +37,4 @@ Types of changes
 ### Features
 * The initial release of Blog Time to Read.
 
-[Unreleased]: https://github.com/GinoPane/oc-blogtimetoread-plugin/compare/v1.1.0...HEAD
+[Unreleased]: https://github.com/GinoPane/oc-blogtimetoread-plugin/compare/v1.2.0...HEAD

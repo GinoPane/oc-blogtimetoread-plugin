@@ -1,5 +1,8 @@
+1.2.0:
+  - Minor README changes; another style to list required plugins
+
 1.1.0:
-  - Degraded from PHP7.1 to PHP7.0 to support the minimal required version for October CMS.
+  - Degraded from PHP7.1 to PHP7.0 to support the minimal required version for October CMS
 
 1.0.1:
   - Fixed typo in README
