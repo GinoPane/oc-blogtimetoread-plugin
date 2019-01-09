@@ -2,6 +2,7 @@
 
 A simple time to read extension for [RainLab Blog](https://octobercms.com/plugin/rainlab-blog) plugin.
 
+[![GitHub tag](https://img.shields.io/github/tag/ginopane/oc-blogtimetoread-plugin.svg)](https://github.com/GinoPane/oc-blogtimetoread-plugin)
 [![Maintainability](https://api.codeclimate.com/v1/badges/589a234df30aad280f9b/maintainability)](https://codeclimate.com/github/GinoPane/oc-blogtimetoread-plugin/maintainability)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/GinoPane/oc-blogtimetoread-plugin/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/GinoPane/oc-blogtimetoread-plugin/?branch=master)
 
