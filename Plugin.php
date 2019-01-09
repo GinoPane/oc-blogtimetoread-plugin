@@ -19,19 +19,16 @@ class Plugin extends PluginBase
 
     const LOCALIZATION_KEY = 'ginopane.blogtimetoread::lang.';
 
-    const REQUIRED_PLUGIN_RAINLAB_BLOG = 'RainLab.Blog';
-    const REQUIRED_PLUGIN_RAINLAB_TRANSLATE = 'RainLab.Translate';
-
     /**
      * @var array   Require the RainLab.Blog plugin
      */
     public $require = [
-        self::REQUIRED_PLUGIN_RAINLAB_BLOG,
-        self::REQUIRED_PLUGIN_RAINLAB_TRANSLATE
+        'RainLab.Blog',
+        'RainLab.Translate'
     ];
 
     /** @var TimeToRead  */
-    private $helper = null;
+    private $helper;
 
     /**
      * Returns information about this plugin

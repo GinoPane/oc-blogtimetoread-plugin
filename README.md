@@ -1,15 +1,15 @@
 # Blog Time to Read
 
-A simple time to read extension for [RainLab Blog](https://github.com/rainlab/blog-plugin) plugin.
+A simple time to read extension for [RainLab Blog](https://octobercms.com/plugin/rainlab-blog) plugin.
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/589a234df30aad280f9b/maintainability)](https://codeclimate.com/github/GinoPane/oc-blogtimetoread-plugin/maintainability)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/GinoPane/oc-blogtimetoread-plugin/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/GinoPane/oc-blogtimetoread-plugin/?branch=master)
 
-[_Blog Time to Read_](https://github.com/GinoPane/oc-blogtimetoread-plugin) adds a basic time to read calculation for your awesome posts.
+[_Blog Time to Read_](https://octobercms.com/plugin/ginopane-blogtimetoread) adds a basic time to read calculation for your awesome posts.
 
 ## Requirements
 
-The _Blog Time to Read_ plugin requires RainLab Blog and [RainLab Translate](https://github.com/rainlab/translate-plugin).
+The _Blog Time to Read_ plugin requires RainLab Blog and [RainLab Translate](https://octobercms.com/plugin/rainlab-translate).
 
 ## Settings
 
