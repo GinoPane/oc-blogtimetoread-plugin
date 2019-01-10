@@ -42,7 +42,7 @@ class Plugin extends PluginBase
             'description' => self::LOCALIZATION_KEY . 'plugin.description',
             'author'      => 'Siarhei <Gino Pane> Karavai',
             'icon'        => self::DEFAULT_ICON,
-            'homepage'    => 'https://github.com/ginopane/oc-blog-timetoread'
+            'homepage'    => 'https://github.com/GinoPane/oc-blogtimetoread-plugin'
         ];
     }
 
