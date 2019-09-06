@@ -81,7 +81,8 @@ class Plugin extends PluginBase
                 'description' => self::LOCALIZATION_KEY . 'settings.description',
                 'icon'        => self::DEFAULT_ICON,
                 'class'       => Settings::class,
-                'order'       => 100
+                'order'       => 800,
+                'category'    => 'rainlab.blog::lang.blog.menu_label'
             ]
         ];
     }
