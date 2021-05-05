@@ -1,5 +1,5 @@
 {
-  "name": "ginopane/blogtimetoread",
+  "name": "ginopane/blogtimetoread-plugin",
   "type": "october-plugin",
   "description": "A simple time to read extension for RainLab Blog",
   "homepage": "https://github.com/GinoPane/oc-blogtimetoread-plugin",
